@@ -1,0 +1,3 @@
+# EZVPS
+
+Script manage VPS
